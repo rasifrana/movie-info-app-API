@@ -1,0 +1,26 @@
+
+.navbar-brand img {
+	width: 200px;
+	height: auto;
+}
+
+#movies img, #movie img {
+	width: 100%;
+
+}
+
+@media(min-width: 960px){
+	#movies .col-md-3 .well {
+	height: 390px;
+	margin-bottom: 20px;
+}
+
+#movies .col-md-3 img {
+	height: 260px;
+}
+
+.well h5 {
+	height: 80px;
+}
+
+}
